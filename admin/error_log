@@ -1,0 +1,293 @@
+[27-Jun-2021 03:40:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:04 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 9
+[27-Jun-2021 03:40:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 22
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 23
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 25
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 21
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 22
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 24
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:07 UTC] PHP Notice:  Undefined index: election_id in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 89
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 91
+[27-Jun-2021 03:40:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 92
+[27-Jun-2021 03:40:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:26 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 9
+[27-Jun-2021 03:40:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 22
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 23
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 25
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 21
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 22
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 24
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:30 UTC] PHP Notice:  Undefined index: election_id in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 89
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 91
+[27-Jun-2021 03:40:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 92
+[27-Jun-2021 03:40:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:44 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 9
+[27-Jun-2021 03:40:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 22
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 23
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 25
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 21
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 22
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 24
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:40:47 UTC] PHP Notice:  Undefined index: election_id in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 89
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 91
+[27-Jun-2021 03:40:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 92
+[27-Jun-2021 03:41:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:05 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 9
+[27-Jun-2021 03:41:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 22
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 23
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 25
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 21
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 22
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 24
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:08 UTC] PHP Notice:  Undefined index: election_id in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 89
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 91
+[27-Jun-2021 03:41:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 92
+[27-Jun-2021 03:41:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:46 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 9
+[27-Jun-2021 03:41:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/login.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 22
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 23
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 25
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 21
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 22
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 24
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 32
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/fetch_data.php on line 33
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Reenjay'@'localhost' (using password: YES) in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 10
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/connection/connect.php on line 13
+[27-Jun-2021 03:41:49 UTC] PHP Notice:  Undefined index: election_id in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 89
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 91
+[27-Jun-2021 03:41:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 92
+[27-Jun-2021 03:44:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 15:15:33 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 52
+[27-Jun-2021 15:16:08 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 52
+[27-Jun-2021 15:18:39 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 52
+[27-Jun-2021 07:22:46 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:27:49 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:27:53 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:27:56 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:29:47 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:32:08 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:37:03 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:40:09 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 15:41:02 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:41:02 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:41:02 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:41:02 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 67
+[27-Jun-2021 15:42:50 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:42:50 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:42:50 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:42:50 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 67
+[27-Jun-2021 15:45:11 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:45:11 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:45:11 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:45:11 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 67
+[27-Jun-2021 15:47:11 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:47:11 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:47:11 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:47:11 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 67
+[27-Jun-2021 15:48:03 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:48:03 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:48:03 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:48:03 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 66
+[27-Jun-2021 15:48:03 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 68
+[27-Jun-2021 15:49:00 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:49:00 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:49:00 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:49:00 Asia/Manila] PHP Notice:  Undefined variable: defpass in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 68
+[27-Jun-2021 15:49:34 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:49:34 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:49:34 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:50:44 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:50:44 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[27-Jun-2021 15:50:44 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[27-Jun-2021 15:52:17 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 63
+[27-Jun-2021 15:52:17 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 63
+[27-Jun-2021 15:52:17 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 65
+[27-Jun-2021 15:53:48 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 63
+[27-Jun-2021 15:53:48 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 63
+[27-Jun-2021 15:53:48 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 65
+[27-Jun-2021 15:54:26 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 63
+[27-Jun-2021 15:54:26 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 63
+[27-Jun-2021 15:54:26 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 65
+[27-Jun-2021 07:56:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 07:57:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 07:58:32 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 07:58:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[27-Jun-2021 08:00:04 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 08:00:46 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[27-Jun-2021 08:02:22 UTC] PHP Warning:  unlink(../upload/): Is a directory in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/action.php on line 152
+[28-Jun-2021 06:28:02 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[28-Jun-2021 06:28:02 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[28-Jun-2021 06:28:02 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[28-Jun-2021 06:28:02 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[28-Jun-2021 06:28:02 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[28-Jun-2021 06:28:02 UTC] PHP Notice:  Undefined index: election_id in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 89
+[28-Jun-2021 06:28:08 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[28-Jun-2021 06:28:08 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[28-Jun-2021 06:28:08 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[28-Jun-2021 06:28:08 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[28-Jun-2021 06:28:08 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[01-Jul-2021 05:38:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:41:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:41:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:42:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:43:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:44:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:45:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:45:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:51:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:53:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:53:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:53:39 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:55:38 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:56:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 05:56:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 14:02:16 Asia/Manila] PHP Notice:  Undefined variable: con in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[01-Jul-2021 14:02:16 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 61
+[01-Jul-2021 14:02:16 Asia/Manila] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/savewphoto.php on line 63
+[01-Jul-2021 06:02:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:03:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:05:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:05:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:08:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/actionwphoto.php on line 146
+[01-Jul-2021 06:09:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:10:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:10:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:11:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:15:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:16:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:16:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:16:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:16:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:18:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 06:18:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[01-Jul-2021 07:26:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 23
+[01-Jul-2021 07:26:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 25
+[08-Jul-2021 06:34:07 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[08-Jul-2021 06:34:07 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19
+[08-Jul-2021 06:34:07 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 37
+[08-Jul-2021 06:34:07 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 57
+[08-Jul-2021 06:34:07 UTC] PHP Notice:  Undefined index: electsched in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/statistics.php on line 74
+[11-Aug-2021 05:51:14 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/include/sidebar.php on line 19
+[11-Aug-2021 05:51:14 UTC] PHP Notice:  Undefined index: admin_id_token in /home/ja59dvmjcj5e/public_html/vs.hantechdesign.com/admin/accountmodal.php on line 19

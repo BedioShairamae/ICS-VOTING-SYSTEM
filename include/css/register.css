@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed&display=swap');
+
+ .regback {
+ 	background-color: #ced9cf;
+ 	font-family: 'Barlow Semi Condensed', sans-serif;
+ }
+ .regform {
+ 	margin-top: 10px;
+ }
+ .verify {
+ 	margin-top: 50px;
+ }

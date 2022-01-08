@@ -1,0 +1,75 @@
+
+.myacc {
+	 box-shadow:  0 5rem 5rem 0 #00000040;
+}
+.myacc h4 {
+	padding: 10px;
+	font-weight: bolder;
+
+}
+.imageconf {
+	text-align: center;
+}
+.imageconf img {
+	width: 50%;
+	height: 20%;
+}
+.imageconf label {
+	margin-top: 10px;
+}
+.userdetails h4 {
+font-weight: bolder;
+}
+.userdetails  p {
+	font-size: 12px;
+	float: right;
+	background-color: rgb(11, 57, 11);
+	color: white;
+	padding: 7px;
+	border-radius: 10px;
+	font-weight: normal;
+}
+.userdetails h4 span {
+	font-weight: normal;
+	font-size: 16px;
+
+}
+.userdetails h6	{
+	color: grey;
+	font-size: 13px;
+	float: right;
+}
+.userdetails button {
+	border: none;
+	outline: none;
+	padding: 10px;
+	width: 120px;
+	border-radius: 10px;
+	background-color:  rgb(11, 57, 11);
+	color: white;
+	transition: 0.25s;
+	float: right;
+}
+.userdetails #cancelbtn {
+	border: none;
+	outline: none;
+	padding: 10px;
+	width: 120px;
+	border-radius: 10px;
+	background-color: #75282e;
+	color: white;
+	transition: 0.25s;
+	float: right;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 5px;
+}
+.userdetails #cancelbtn:hover {
+	background-color: #963940;
+	transform: translateY(-3px);
+}
+
+.userdetails button:hover {
+	background-color: rgb(33, 74, 33);
+	transform: translateY(-3px);
+}

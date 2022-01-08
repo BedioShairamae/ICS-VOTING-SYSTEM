@@ -1,0 +1,251 @@
+.add-new button {
+	width: 120px;
+	padding: 4px;
+	padding-left: 5px;
+	margin-left: 5px;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	background: linear-gradient(to bottom, #0099ff 0%, #003399 100%);
+	color: white;
+
+}
+
+
+.add-new button:hover {
+	background: linear-gradient(to top, #0099ff 0%, #003399 100%);
+} 
+input {
+	font-size: 12px;
+}
+
+#deletemodal {
+           
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 50%;
+            top: 50%;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            background-color: rgba(255,255,255,0);
+        
+          }
+
+         
+
+      .delmodal-contents {
+          position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 50px; /* Location of the box */
+            left: 50%;
+            top: 50%;
+            width: 40rem; /* Full width */
+            height: 13rem; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(76, 76, 76); /* Fallback color */
+           border-radius: 2rem; /* Black w/ opacity */
+           transform:translate(-50%,-50%);
+           box-shadow:  0 10rem 10rem 0 #00000040;
+           display:flex;
+           flex-direction: column;
+           justify-content: space-between;
+           text-align: center;
+           border: 1px solid #c2d6d0;
+      }
+
+        #deletemodal.open {
+            animation: open 0.5s forwards;
+          }
+
+          #deletemodal.close {
+            animation: close 0.5s forwards;
+          }
+
+
+
+#editmodal {
+           
+            position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 100px; /* Location of the box */
+            left: 50%;
+            top: 50%;
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            background-color: rgba(255,255,255,0);
+        
+          }
+
+         
+
+      .editmodal-contents {
+          position: fixed; /* Stay in place */
+            z-index: 1; /* Sit on top */
+            padding-top: 50px; /* Location of the box */
+            left: 50%;
+            top: 50%;
+            width: 40rem; /* Full width */
+            height: 13rem; /* Full height */
+            overflow: auto; /* Enable scroll if needed */
+            background-color: rgb(76, 76, 76); /* Fallback color */
+           border-radius: 2rem; /* Black w/ opacity */
+           transform:translate(-50%,-50%);
+           box-shadow:  0 10rem 10rem 0 #00000040;
+           display:flex;
+           flex-direction: column;
+           justify-content: space-between;
+           text-align: center;
+           border: 1px solid #c2d6d0;
+      }
+      .editmodal-contents label {
+        color: white;
+      }
+       .editmodal-contents input {
+        text-align: center;
+       }
+
+        #editmodal.open {
+            animation: open 0.5s forwards;
+          }
+
+          #editmodal.close {
+            animation: close 0.5s forwards;
+          }
+          @keyframes open {
+            0% {
+              transform: translate(-50%,-50%) scale(0);
+            }
+             50% {
+              transform: translate(-50%,-50%) scale(1.2);
+            }
+
+             70% {
+              transform: translate(-50%,-50%) scale(0.95);
+            }
+
+              95% {
+              transform: translate(-50%,-50%) scale(1.1);
+            }
+
+             100% {
+              transform: translate(-50%,-50%) scale(1);
+            }
+
+          }
+
+           @keyframes close {
+            100% {
+              transform: translate(-50%,-50%) scale(0);
+            }
+             50% {
+              transform: translate(-50%,-50%) scale(1.2);
+            }
+
+             30% {
+              transform: translate(-50%,-50%) scale(0.95);
+            }
+
+              5% {
+              transform: translate(-50%,-50%) scale(1.1);
+            }
+
+             0% {
+              transform: translate(-50%,-50%) scale(1);
+            }
+
+          }
+
+             .popup h4 span {
+          
+            font-weight: bolder;
+
+      }
+      .popup button {
+        padding: 10px;
+        width:120px;
+      margin-top: 30px;
+      margin: 10px;
+      outline: none;
+      border: none;
+      border-radius: 15px;
+   
+     
+        transition: 0.5s;
+          
+      }
+
+      /*
+      .popup button:hover {
+   transform: translateY(2px);
+  background-image: linear-gradient(to right,#348AC7  0%,  #7474BF 51%, #7474BF 100%);
+   }
+   */
+
+   .imageconf {
+	text-align: center;
+}
+.imageconf img {
+	width: 80%;
+	height: 40%;
+}
+.imageconf label {
+	margin-top: 10px;
+}
+.userdetails button {
+	border: none;
+	outline: none;
+	padding: 10px;
+	width: 120px;
+	border-radius: 10px;
+	background-color:  rgb(11, 57, 11);
+	color: white;
+	transition: 0.25s;
+	float: right;
+}
+.userdetails #cancelbtn {
+	border: none;
+	outline: none;
+	padding: 10px;
+	width: 120px;
+	border-radius: 10px;
+	background-color: #75282e;
+	color: white;
+	transition: 0.25s;
+	float: right;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 5px;
+}
+.userdetails #cancelbtn:hover {
+	background-color: #963940;
+	transform: translateY(-3px);
+}
+.userdetails button:hover {
+	background-color: rgb(33, 74, 33);
+	transform: translateY(-3px);
+}
+
+.candidates_add button  {
+  border-radius: 5px;
+  border:none;
+  outline: none;
+  margin: 5px;
+  padding: 5px;
+  background-color: #25c37e;
+}
+
+.candidates_add button:hover {
+   background-color: #50d79d;
+}
+.det {
+ border:none;
+ outline: none;
+ 
+ border-radius: 5px;
+ background-color: #1ed38c;
+
+}
+.det:hover {
+  background-color: #67deaf;
+}
